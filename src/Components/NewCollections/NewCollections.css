@@ -1,4 +1,5 @@
 .new_collections {
+  width: 800px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -6,7 +7,7 @@
   margin-bottom: 100px;
 }
 .new_collections h1 {
-  color: #171717;
+  color: #2b00ff;
   font-size: 50px;
   font-weight: 600;
 }
